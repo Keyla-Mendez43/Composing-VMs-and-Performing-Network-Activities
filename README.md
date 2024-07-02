@@ -8,7 +8,7 @@
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
+- Network Security Groups (NSG) Firewalls
 - PowerShell
 
 <h2>Operating Systems Used </h2>
