@@ -17,10 +17,10 @@
 
 <h2>Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create a resource group
+- Create a virtual nework
+- Create a subnet inside of virtual network
+- Create two virtual machin (VMs)
 
 <h2>Deployment and Configuration Steps</h2>
 
