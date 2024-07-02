@@ -25,6 +25,8 @@
 
 <h2>Deployment and Configuration Steps</h2>
 
+![image](https://github.com/Keyla-Mendez43/Composing-VMs-and-Performing-Network-Activities/assets/174077223/a90a6e36-365e-4785-8fb2-c213ff042362)
+
 <p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
