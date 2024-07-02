@@ -20,7 +20,7 @@
 - Create a resource group
 - Create a virtual nework
 - Create a subnet inside of virtual network
-- Create two virtual machin (VMs)
+- Create two virtual machines (VMs)
 
 <h2>Deployment and Configuration Steps</h2>
 
