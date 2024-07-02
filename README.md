@@ -3,6 +3,7 @@
 </p>
 
 <h1>Composing VMs and Performing Network Activities (Azure)</h1>
+  Two virtual machines with firewalls and network traffic.
 
 <h2>Environments and Technologies Used</h2>
 
