@@ -15,7 +15,7 @@
 
 - Windows 11 (22H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Configuration Steps</h2>
 
 - Step 1
 - Step 2
