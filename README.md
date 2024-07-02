@@ -14,7 +14,7 @@
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 11 (22H2)
 
 <h2>Configuration Steps</h2>
 
