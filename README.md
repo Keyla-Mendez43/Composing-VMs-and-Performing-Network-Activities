@@ -31,4 +31,4 @@ In the image above, virtual machine 1 is creating all the resources. The VM is c
 
 ![image](https://github.com/Keyla-Mendez43/Composing-VMs-and-Performing-Network-Activities/assets/174077223/3ad3d45f-d1a9-4b9b-bd6c-3e64548f087b)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the image above, is the resources group that showing the two VMs and their resources including a (vNIC).
