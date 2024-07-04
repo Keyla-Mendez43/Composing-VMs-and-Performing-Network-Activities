@@ -32,3 +32,8 @@ In the image above, virtual machine 1 is creating all the resources. The VM is c
 ![image](https://github.com/Keyla-Mendez43/Composing-VMs-and-Performing-Network-Activities/assets/174077223/3ad3d45f-d1a9-4b9b-bd6c-3e64548f087b)
 
 In the image above, is the resources group that showing the two VMs and their resources including a (vNIC).
+
+![image](https://github.com/Keyla-Mendez43/Composing-VMs-and-Performing-Network-Activities/assets/174077223/50324422-cd4d-4cdb-8f53-72e21123f732)
+
+In the image above, Wireshark is being downloaded on one of the Virtual Machines.
+
