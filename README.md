@@ -39,4 +39,4 @@ In the image above, Wireshark is being downloaded on one of the Virtual Machines
 
 ![image](https://github.com/Keyla-Mendez43/Composing-VMs-and-Performing-Network-Activities/assets/174077223/0a16439b-0647-4b79-b1fc-d41636c49f33)
 
-In the imagr above, Power
+In the image above, PowerShell is running on VM1 using (ICMP) ping with the IP Address from VM2.
