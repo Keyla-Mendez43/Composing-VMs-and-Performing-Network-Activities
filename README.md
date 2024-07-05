@@ -43,4 +43,4 @@ In the image above, PowerShell is running on VM1 using (ICMP) ping with the IP A
 
 ![image](https://github.com/Keyla-Mendez43/Composing-VMs-and-Performing-Network-Activities/assets/174077223/353614c5-9f0c-4b7a-a172-98c4f6670c0a)
 
-In the image above, traffic (ICMP) is going to be deny from VM2 through (NSG) on Azure.
+In the image above, a rule is being created through (NSG) to deny (ICMP) traffic from VM2.
